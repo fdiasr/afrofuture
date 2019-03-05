@@ -1,4 +1,6 @@
 import cmd, sys, json, time, os
+import simpleaudio as sa
+
 
 class AfrofuturismShell(cmd.Cmd):
     intro = ''' 
@@ -14,12 +16,13 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
 
 
 '''
-    prompt = '|= afrofuture =| '
+    prompt = '| afro | '
     file = None
 
     def preloop(self):
-        self.clear()
+        #self.clear()
         self.connect()
+        self.play_sound("./sounds/sample.wav")
 
     def clear(self):
         os.system('cls') # windows
@@ -39,6 +42,11 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         
         print("\n\n\n")
 
+    def play_sound(self, audio_path):
+        wave_obj = sa.WaveObject.from_wave_file(audio_path)
+        wave_obj.play()
+
+
     def load(self, command, field):
         for item in self.data:
             if item['topic'] == command:
@@ -47,10 +55,19 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
 
     def default(self, definition):
         'Get definition from data JSON file.'
-        try:
-            print("\n {definition} \n".format(definition=self.load(definition, 'text')))
-        except:
-            print("\n > > > ERROR: Invalid command ! Press help to see the command list \n")
+
+        #try:
+
+        # if it has sound play it
+        audio_path = self.load(definition, 'audio_path')
+
+        if audio_path:
+            self.play_sound(audio_path)
+
+        print("\n {definition} \n".format(definition="".join(self.load(definition, 'text'))))
+        #except:
+        #    print("\n > > > ERROR: Invalid command ! Press help to see the command list \n")
+
 
     #def do_collect_and_results(self, arg):
     #    'It collects some info from user to search into the internet and show at the end of the presentation
