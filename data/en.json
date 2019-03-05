@@ -1,100 +1,86 @@
 {
     "data": [
         {
-            "topic": "whatis",
-            "text": "Afrofuturismo is a cultural stetic,...",
+            "topic": "definition",
+            "text": [
+		    "Afrofuturismo is a cultural stetic, ... ",
+	   	    "./imgs/space-is-the-place.jpg ",
+		    "past ",
+		    "future "
+	    ],
             "desc": "Afrofuturism concepts",
+	    "audio_path": "./sounds/sample.wav",
             "order": 1
         },
         {
-            "topic": "term",
-            "text": "O termo foi criado no início da década de 1990, Mark Dery em 1994 no ensaio \"Black to the Future\", escreveu sobre as características comuns entre ficção científica, música e arte afro-americanas e o denominou com o nome. Mark Sinker já teorizava em 1992 os sinais do afro futurismo em uma matéria denomiada \"Black Science Fiction\" nas páginas de The Wire.",
-            "desc": "Explain how the term was created",
-            "order": 2
-        },
-        {
             "topic": "originators",
-            "text": "Sun Ra, Octavia Butler",
+            "text": "Sun Ra, ./imgs/space-is-the-place.jpg, Octavia Butler",
             "desc": "Expose the originators of the afrofuturism culture",
-            "order": 3
+	    "audio_path": "./sounds/sample.wav",
+            "order": 2
         },
         {
             "topic": "pionners",
             "text": "George Clinton + Parliament-Funkadelic, Africa Bambaata, Lee Scratch Perry, Chicago House, Detroit Techno, Basquiat, Black Panther Comics, Samuel Delany, Angelbert Metoyer",
             "desc": "Show the pionners of afrofuturism",
+	    "audio_path": "./sounds/sample.wav",
+            "order": 3
+        },
+        {
+            "topic": "term",
+            "text": "O termo foi criado no início da década de 1990, Mark Dery em 1994 no ensaio \"Black to the Future\", escreveu sobre as características comuns entre ficção científica, música e arte afro-americanas e o denominou com o nome. Mark Sinker já teorizava em 1992 os sinais do afro futurismo em uma matéria denomiada \"Black Science Fiction\" nas páginas de The Wire.",
+            "desc": "Explain how the term was created",
+	    "audio_path": "./sounds/sample.wav",
             "order": 4
         },
         {
-            "topic": "black-panther",
-            "text": "Marvel Comics...",
-            "desc": "How afrofuturism claimed to maintream and it is relevant to pop culture",
+            "topic": "egypt",
+            "text": "Egypt and Nubia connection ",
+            "desc": "",
+	    "audio_path": "./sounds/sample.wav",
             "order": 5
         },
         {
-            "topic": "books",
+            "topic": "tech",
             "text": "",
-            "desc": "pt-br",
+            "desc": "Black People at technology revolutionazing the industry",
+	    "audio_path": "./sounds/sample.wav",
             "order": 6
         },
         {
-            "topic": "movies",
-            "text": "",
-            "desc": "pt-br",
+            "topic": "present",
+            "text": "./imges/ispace-is-the-place.jpg",
+            "desc": "What is happening in these days, relevant to afrofuturism",
+	    "audio_path": "./sounds/sample.wav",
             "order": 7
         },
         {
-            "topic": "arts",
+            "topic": "mainstream",
             "text": "",
-            "desc": "pt-br",
+            "desc": "How afrofuturism is influencing pop culture around the world",
+	    "audio_path": "./sounds/sample.wav",
             "order": 8
         },
         {
-            "topic": "fashion",
+            "topic": "brasil",
             "text": "",
-            "desc": "pt-br",
+            "desc": "What is happening related with afrofuturism in Brazil",
+	    "audio_path": "./sounds/sample.wav",
             "order": 9
         },
         {
-            "topic": "music",
+            "topic": "references",
             "text": "",
-            "desc": "pt-br",
+            "desc": "Some referentes about afrofuturism culture",
+	    "audio_path": "./sounds/sample.wav",
             "order": 10
-        },
-        {
-            "topic": "technology",
-            "text": "",
-            "desc": "pt-br",
-            "order": 11
-        },
-        {
-            "topic": "blackwoman-on-it",
-            "text": "",
-            "desc": "pt-br",
-            "order": 12
-        },
-        {
-            "topic": "brazil",
-            "text": "",
-            "desc": "pt-br",
-            "order": 13
-        },
-        {
-            "topic": "nuschool",
-            "text": "",
-            "desc": "pt-br",
-            "order": 14
-        },
-        {
-            "topic": "the-book",
-            "text": "",
-            "desc": "pt-br",
-            "order": 15
         },
         {
             "topic": "future",
             "text": "",
-            "desc": "pt-br",
-            "order": 16
+            "desc": "What expect around afrofuturism to future",
+	    "audio_path": "./sounds/sample.wav",
+            "order": 11
         }
     ]
 }
