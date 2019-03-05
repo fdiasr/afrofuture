@@ -33,7 +33,7 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
             time.sleep(.5)
 
         try:
-            self.data = json.load(open('data/pt-br.json'))['data']
+            self.data = json.load(open('data/en.json'))['data']
         except:
             print('Error to stablish connection...')
         

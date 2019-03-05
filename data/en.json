@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "topic": "whatis",
+            "text": "Afrofuturismo is a cultural stetic,...",
+            "desc": "Afrofuturism concepts",
+            "order": 1
+        },
+        {
+            "topic": "term",
+            "text": "O termo foi criado no início da década de 1990, Mark Dery em 1994 no ensaio \"Black to the Future\", escreveu sobre as características comuns entre ficção científica, música e arte afro-americanas e o denominou com o nome. Mark Sinker já teorizava em 1992 os sinais do afro futurismo em uma matéria denomiada \"Black Science Fiction\" nas páginas de The Wire.",
+            "desc": "Explain how the term was created",
+            "order": 2
+        },
+        {
+            "topic": "originators",
+            "text": "Sun Ra, Octavia Butler",
+            "desc": "Expose the originators of the afrofuturism culture",
+            "order": 3
+        },
+        {
+            "topic": "pionners",
+            "text": "George Clinton + Parliament-Funkadelic, Africa Bambaata, Lee Scratch Perry, Chicago House, Detroit Techno, Basquiat, Black Panther Comics, Samuel Delany, Angelbert Metoyer",
+            "desc": "Show the pionners of afrofuturism",
+            "order": 4
+        },
+        {
+            "topic": "black-panther",
+            "text": "Marvel Comics...",
+            "desc": "How afrofuturism claimed to maintream and it is relevant to pop culture",
+            "order": 5
+        },
+        {
+            "topic": "books",
+            "text": "",
+            "desc": "pt-br",
+            "order": 6
+        },
+        {
+            "topic": "movies",
+            "text": "",
+            "desc": "pt-br",
+            "order": 7
+        },
+        {
+            "topic": "arts",
+            "text": "",
+            "desc": "pt-br",
+            "order": 8
+        },
+        {
+            "topic": "fashion",
+            "text": "",
+            "desc": "pt-br",
+            "order": 9
+        },
+        {
+            "topic": "music",
+            "text": "",
+            "desc": "pt-br",
+            "order": 10
+        },
+        {
+            "topic": "technology",
+            "text": "",
+            "desc": "pt-br",
+            "order": 11
+        },
+        {
+            "topic": "blackwoman-on-it",
+            "text": "",
+            "desc": "pt-br",
+            "order": 12
+        },
+        {
+            "topic": "brazil",
+            "text": "",
+            "desc": "pt-br",
+            "order": 13
+        },
+        {
+            "topic": "nuschool",
+            "text": "",
+            "desc": "pt-br",
+            "order": 14
+        },
+        {
+            "topic": "the-book",
+            "text": "",
+            "desc": "pt-br",
+            "order": 15
+        },
+        {
+            "topic": "future",
+            "text": "",
+            "desc": "pt-br",
+            "order": 16
+        }
+    ]
+}
