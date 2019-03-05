@@ -18,11 +18,12 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
 '''
     prompt = '| afro | '
     file = None
+    sound_path = "{parent_path}/sounds".format(parent_path=os.path.dirname(__file__))
 
     def preloop(self):
-        #self.clear()
+        # self.clear()
         self.connect()
-        self.play_sound("./sounds/sample.wav")
+        self.play_sound("sample.wav")
 
     def clear(self):
         os.system('cls') # windows
@@ -42,10 +43,10 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         
         print("\n\n\n")
 
-    def play_sound(self, audio_path):
+    def play_sound(self, file):
+        audio_path = "{sound_path}/{file}".format(sound_path=self.sound_path, file=file)
         wave_obj = sa.WaveObject.from_wave_file(audio_path)
         wave_obj.play()
-
 
     def load(self, command, field):
         for item in self.data:
@@ -54,18 +55,21 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         raise Error
 
     def default(self, definition):
-        'Get definition from data JSON file.'
+        """
+        Get definition from data JSON file.
+        """
 
-        #try:
+        # try:"
 
         # if it has sound play it
-        audio_path = self.load(definition, 'audio_path')
+        audio_file = self.load(definition, 'audio_file')
 
-        if audio_path:
-            self.play_sound(audio_path)
+        if audio_file:
+            self.play_sound(audio_file)
 
         print("\n {definition} \n".format(definition="".join(self.load(definition, 'text'))))
-        #except:
+
+        # except:
         #    print("\n > > > ERROR: Invalid command ! Press help to see the command list \n")
 
 
@@ -73,13 +77,15 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
     #    'It collects some info from user to search into the internet and show at the end of the presentation
 
     def emptyline(self):
+        """
+        Make empty line return nothing
+        """
         return
 
     def do_exit(self, arg):
-        'Finish Wakanda connection'
+        """
+        Finish Wakanda connection
+        """
         print("\n\n > > > Ending Wakanda connection \n\n")
         time.sleep(2)
         return True
-
-if __name__ == '__main__':
-    AfrofuturismShell().cmdloop()

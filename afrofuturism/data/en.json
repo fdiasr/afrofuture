@@ -9,77 +9,77 @@
 		    "future "
 	    ],
             "desc": "Afrofuturism concepts",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 1
         },
         {
             "topic": "originators",
             "text": "Sun Ra, ./imgs/space-is-the-place.jpg, Octavia Butler",
             "desc": "Expose the originators of the afrofuturism culture",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 2
         },
         {
             "topic": "pionners",
             "text": "George Clinton + Parliament-Funkadelic, Africa Bambaata, Lee Scratch Perry, Chicago House, Detroit Techno, Basquiat, Black Panther Comics, Samuel Delany, Angelbert Metoyer",
             "desc": "Show the pionners of afrofuturism",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 3
         },
         {
             "topic": "term",
             "text": "O termo foi criado no início da década de 1990, Mark Dery em 1994 no ensaio \"Black to the Future\", escreveu sobre as características comuns entre ficção científica, música e arte afro-americanas e o denominou com o nome. Mark Sinker já teorizava em 1992 os sinais do afro futurismo em uma matéria denomiada \"Black Science Fiction\" nas páginas de The Wire.",
             "desc": "Explain how the term was created",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 4
         },
         {
             "topic": "egypt",
             "text": "Egypt and Nubia connection ",
             "desc": "",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 5
         },
         {
             "topic": "tech",
             "text": "",
             "desc": "Black People at technology revolutionazing the industry",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 6
         },
         {
             "topic": "present",
             "text": "./imges/ispace-is-the-place.jpg",
             "desc": "What is happening in these days, relevant to afrofuturism",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 7
         },
         {
             "topic": "mainstream",
             "text": "",
             "desc": "How afrofuturism is influencing pop culture around the world",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 8
         },
         {
             "topic": "brasil",
             "text": "",
             "desc": "What is happening related with afrofuturism in Brazil",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 9
         },
         {
             "topic": "references",
             "text": "",
             "desc": "Some referentes about afrofuturism culture",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 10
         },
         {
             "topic": "future",
             "text": "",
             "desc": "What expect around afrofuturism to future",
-	    "audio_path": "./sounds/sample.wav",
+	        "audio_file": "sample.wav",
             "order": 11
         }
     ]
