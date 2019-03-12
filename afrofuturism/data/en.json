@@ -3,81 +3,192 @@
         {
             "topic": "definition",
             "text": [
-		    "Afrofuturismo is a cultural stetic, ... ",
-	   	    "./imgs/space-is-the-place.jpg ",
-		    "past ",
-		    "future "
-	    ],
+		        "Afrofuturism is a cultural aesthetic mixing science, philosophy, African arts and knowledge ",
+	   	        "./afrofuturism/imgs/definition.jpg ",
+                "Reinvent the past, looking forward to the future",
+                "New reality perspective transcending racism, excluding, lonely and violence, ",
+                "Keeping a connection with past and history of Africa and the black prominence ",
+                "./afrofuturism/imgs/definition2.jpg ",
+                "\"Space is the place\" - Sun Ra"
+	        ],
             "desc": "Afrofuturism concepts",
-	        "audio_file": "sample.wav",
+	        "audio_file": "smp2.wav",
             "order": 1
         },
         {
             "topic": "originators",
-            "text": "Sun Ra, ./imgs/space-is-the-place.jpg, Octavia Butler",
-            "desc": "Expose the originators of the afrofuturism culture",
-	        "audio_file": "sample.wav",
+            "text": [
+                "Sun Ra",
+                "Jazz Player, Experimental Music, Poet, Composer, Label owner ",
+                "Manifest a unified concept incorporating music, myth and performance",
+                "./afrofuturism/imgs/space-is-the-place.jpg ",
+                "SciFi Movie - Space is the Place",
+                "The Black Man in the Cosmos Lecture @ Berkley",
+                "",
+                "Octavia Butler",
+                "Black Woman Writer",
+                "She wrote sci-fi books interacting with racism and women's empowerment",
+                "Earned a lot of prizes related with sci-fi writing ",
+                "Her Magnus Opus: Kindred (1979)"
+            ],
+            "desc": "Expose the originators of the afrofuturism",
+	        "audio_file": "smp2.wav",
             "order": 2
         },
         {
-            "topic": "pionners",
-            "text": "George Clinton + Parliament-Funkadelic, Africa Bambaata, Lee Scratch Perry, Chicago House, Detroit Techno, Basquiat, Black Panther Comics, Samuel Delany, Angelbert Metoyer",
-            "desc": "Show the pionners of afrofuturism",
+            "topic": "pioneers",
+            "text": [
+                "George Clinton + Parliament-Funkadelic - Musician",
+                "Mothership Connection, space and time travelling looking for advancement, enlightenment and fun",
+                "",
+                "Lee Scratch Perry - Musician",
+                "Put aDats into the ground",
+                "",
+                "Basquiat - Painter",
+                "...",
+                "",
+                "Black Panther - Comics",
+                "Stan Lee ",
+
+                "Movie is the first Marvel nominated to oscar's best movie",
+                "Majority of cast are black",
+                "",
+                "Grace Jones - Performaer, Singer, Model",
+                "",
+                "Samuel Delany - Writer",
+                "He wrote the book ...",
+                "",
+                "Angelbert Metoyer - Painter",
+                "...",
+                "",
+                "Eletronic Music (Hip Hop, House, Techno)",
+                "EDM is completely influenced by black people",
+                "",
+                "I realized that what your fantasy is becomes your reality",
+                "and what your reality is becomes your virtuality - Africa Bambaata"
+            ],
+            "desc": "Show the pioneers of afrofuturism",
 	        "audio_file": "sample.wav",
             "order": 3
         },
         {
             "topic": "term",
-            "text": "O termo foi criado no início da década de 1990, Mark Dery em 1994 no ensaio \"Black to the Future\", escreveu sobre as características comuns entre ficção científica, música e arte afro-americanas e o denominou com o nome. Mark Sinker já teorizava em 1992 os sinais do afro futurismo em uma matéria denomiada \"Black Science Fiction\" nas páginas de The Wire.",
+            "text": [
+                "The term was defined in 1994 when Mark Dery wrote the essay \"Black to the Future\" ",
+                "defining common features between sci-fi, music and afro american culture. ",
+                "Mark realized some signals around 1992, and put it in a article in The Wire magazine",
+                "called \"Black Science Fiction\"."
+            ],
             "desc": "Explain how the term was created",
 	        "audio_file": "sample.wav",
             "order": 4
         },
         {
             "topic": "egypt",
-            "text": "Egypt and Nubia connection ",
-            "desc": "",
+            "text": [
+                "Egyptians and Nubians are representations of advanced societies into Africa in the past",
+                "They had great expressions of science, esoterism, mythology and religion ",
+                "combined with astronomy, architecture and writing ",
+                "into the society even before the Western World's culture of Greece and Rome.",
+                "",
+                "These examples of African system are more expansive and inclusive, than any ",
+                "occidental culture, bringing together philosophy, religion and science concepts.",
+                "",
+                "Africa in many expression and population show science and art together"
+
+            ],
+            "desc": "Egypt show why future is always present in african culture",
 	        "audio_file": "sample.wav",
             "order": 5
         },
         {
             "topic": "tech",
-            "text": "",
-            "desc": "Black People at technology revolutionazing the industry",
+            "text": [
+                "Katherine G Johnson",
+                "Calculations of orbital mechanics in NASA",
+                "",
+                "Jerry Lawson",
+                "Changed the video game industry, designing Fairchild Channel F and cartridges",
+                "",
+                "Neil Degrasse Tyson",
+                "Black Public Person that shows the wonders of science",
+                "",
+                "Actions and Programs to include black people in tech community",
+                "#BlackTechTwitter, BAM - Blacks@Microsoft, BGN - Black Googler Network, Black Community@TW"
+            ],
+            "desc": "Black People at technology revolutionizing the industry",
 	        "audio_file": "sample.wav",
             "order": 6
         },
         {
             "topic": "present",
-            "text": "./imges/ispace-is-the-place.jpg",
+            "text": [
+                "Internet and Social Medias",
+                "as tool to show and do affirmative actions",
+                "",
+                "Cinema and Oscars",
+                "Black Panther, Star Wars, Hidden Figures",
+                "",
+                "Music runs the World",
+                "Using instruments and technology help black musicians to create new sounds, new styles and revolutionize the industry",
+                "",
+                "Arts and Visuals",
+                "Use afrofututurism as expression form, many black artists get some visibility"
+            ],
             "desc": "What is happening in these days, relevant to afrofuturism",
 	        "audio_file": "sample.wav",
             "order": 7
         },
         {
             "topic": "mainstream",
-            "text": "",
+            "text": [
+                "Afrofuturism reaches the pop culture",
+                "Movie - Black Panther",
+                "Music - Parliament, Earth Wind & Fire, Jimi Hendrix, Beyonce, Ashanti, Outkast",
+                "Anime - Afro Samurai",
+                "Art and Visuals - Basquiat",
+                "Brazilian Carnival - Vai Vai - Quilombo do Futuro"
+            ],
             "desc": "How afrofuturism is influencing pop culture around the world",
 	        "audio_file": "sample.wav",
             "order": 8
         },
         {
             "topic": "brasil",
-            "text": "",
+            "text": [
+                "Chico Science & Nação Zumbi",
+                "Fabio Kabral",
+                "Ellen Oleria",
+                "Senzala Hi Tech"
+            ],
             "desc": "What is happening related with afrofuturism in Brazil",
 	        "audio_file": "sample.wav",
             "order": 9
         },
         {
             "topic": "references",
-            "text": "",
-            "desc": "Some referentes about afrofuturism culture",
+            "text": [
+                "Movies",
+                "Arts",
+                "Music",
+                "Visuals",
+                "Tech"
+            ],
+            "desc": "Some references about afrofuturism culture",
 	        "audio_file": "sample.wav",
             "order": 10
         },
         {
             "topic": "future",
-            "text": "",
+            "text": [
+                "What we expect about the future and how use afrofuturism in our benefit",
+                "",
+                "Afrofuturism is part of black culture",
+                "Afrofuturism is technology",
+                "Afrofuturism is a expression of our past",
+                "Afrofuturism is a concept to build a new perspective",
+                "Afrofuturism is our future"
+            ],
             "desc": "What expect around afrofuturism to future",
 	        "audio_file": "sample.wav",
             "order": 11
