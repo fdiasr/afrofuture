@@ -3,7 +3,7 @@ import simpleaudio as sa
 
 
 class AfrofuturismShell(cmd.Cmd):
-    intro = ''' 
+    intro = '''\033[1;32;40m
     ___    ____           ____      __             _  
    /   |  / __/________  / __/_  __/ /___  _______(_)________ ___ 
   / /| | / /_/ ___/ __ \/ /_/ / / / __/ / / / ___/ / ___/ __ `__ 
@@ -16,9 +16,12 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
 
 
 '''
-    prompt = '| afro | '
+
+    prompt = '\033[1;32;40m [AF] > '
     file = None
+    data = []
     sound_path = "{parent_path}/sounds".format(parent_path=os.path.dirname(__file__))
+    data_path = "{parent_path}/data".format(parent_path=os.path.dirname(__file__))
 
     def preloop(self):
         # self.clear()
@@ -30,17 +33,18 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         os.system('clear') # unix
 
     def connect(self):
-        print("\n \n > > > Connecting with Wakanda", end="", flush=True)
-        
+        print("\n \n \033[1;32;40m > > > Connecting with Wakanda", end="", flush=True)
+
         for i in range(5):
             print(".", end="", flush=True)
             time.sleep(.5)
 
         try:
-            self.data = json.load(open('data/en.json'))['data']
+            file_path = "{path}/{file}".format(path=self.data_path, file='en.json')
+            self.data = json.load(open(file_path))['data']
         except:
-            print('Error to stablish connection...')
-        
+            print('\033[1;32;40m Error to stablish connection...')
+
         print("\n\n\n")
 
     def play_sound(self, file):
@@ -67,7 +71,7 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         if audio_file:
             self.play_sound(audio_file)
 
-        print("\n {definition} \n".format(definition="".join(self.load(definition, 'text'))))
+        print("\n{definition}\n".format(definition="\n\n".join(self.load(definition, 'text'))))
 
         # except:
         #    print("\n > > > ERROR: Invalid command ! Press help to see the command list \n")
