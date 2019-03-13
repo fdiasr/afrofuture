@@ -3,11 +3,14 @@
         {
             "topic": "definition",
             "text": [
+                "The Definition",
+                "",
 		        "Afrofuturism is a cultural aesthetic mixing science, philosophy, African arts and knowledge ",
 	   	        "./afrofuturism/imgs/definition.jpg ",
                 "Reinvent the past, looking forward to the future",
                 "New reality perspective transcending racism, excluding, lonely and violence, ",
                 "Keeping a connection with past and history of Africa and the black prominence ",
+                "Afrofuturism has strong connections with Pan-Africanism",
                 "./afrofuturism/imgs/definition2.jpg ",
                 "\"Space is the place\" - Sun Ra"
 	        ],
@@ -18,6 +21,8 @@
         {
             "topic": "originators",
             "text": [
+                "The originators of afrofuturism",
+                "",
                 "Sun Ra",
                 "Jazz Player, Experimental Music, Poet, Composer, Label owner ",
                 "Manifest a unified concept incorporating music, myth and performance",
@@ -38,6 +43,8 @@
         {
             "topic": "pioneers",
             "text": [
+                "The pioneers of afrofuturism",
+                "",
                 "George Clinton + Parliament-Funkadelic - Musician",
                 "Mothership Connection, space and time travelling looking for advancement, enlightenment and fun",
                 "",
@@ -74,6 +81,8 @@
         {
             "topic": "term",
             "text": [
+                "About the Term",
+                "",
                 "The term was defined in 1994 when Mark Dery wrote the essay \"Black to the Future\" ",
                 "defining common features between sci-fi, music and afro american culture. ",
                 "Mark realized some signals around 1992, and put it in a article in The Wire magazine",
@@ -86,6 +95,8 @@
         {
             "topic": "egypt",
             "text": [
+                "Egypt and Nubians show why future is always present in african culture",
+                "",
                 "Egyptians and Nubians are representations of advanced societies into Africa in the past",
                 "They had great expressions of science, esoterism, mythology and religion ",
                 "combined with astronomy, architecture and writing ",
@@ -104,6 +115,8 @@
         {
             "topic": "tech",
             "text": [
+                "Black People at technology revolutionizing the industry",
+                "",
                 "Katherine G Johnson",
                 "Calculations of orbital mechanics in NASA",
                 "",
@@ -123,6 +136,8 @@
         {
             "topic": "present",
             "text": [
+                "Afrofuturism impacts the present",
+                "",
                 "Internet and Social Medias",
                 "as tool to show and do affirmative actions",
                 "",
@@ -143,10 +158,11 @@
             "topic": "mainstream",
             "text": [
                 "Afrofuturism reaches the pop culture",
-                "Movie - Black Panther",
-                "Music - Parliament, Earth Wind & Fire, Jimi Hendrix, Beyonce, Ashanti, Outkast",
-                "Anime - Afro Samurai",
-                "Art and Visuals - Basquiat",
+                "",
+                "Black Panther",
+                "Parliament, Earth Wind & Fire, Jimi Hendrix, Beyonce, Ashanti, Outkast",
+                "Afro Samurai",
+                "Basquiat",
                 "Brazilian Carnival - Vai Vai - Quilombo do Futuro"
             ],
             "desc": "How afrofuturism is influencing pop culture around the world",
@@ -156,10 +172,12 @@
         {
             "topic": "brasil",
             "text": [
+                "What is going on Brazil about Afrofuturism",
+                "",
                 "Chico Science & Nação Zumbi",
                 "Fabio Kabral",
-                "Ellen Oleria",
-                "Senzala Hi Tech"
+                "Senzala Hi Tech",
+                "Ellen Oleria"
             ],
             "desc": "What is happening related with afrofuturism in Brazil",
 	        "audio_file": "sample.wav",
@@ -168,11 +186,26 @@
         {
             "topic": "references",
             "text": [
+                "Some references",
+                "",
                 "Movies",
+                "Space is the Place, Blade, Black Panther, Sankofa, Afronauts",
+                "",
                 "Arts",
+                "-- xx --",
+                "",
                 "Music",
+                "Erykah Badu, Janelle Monae, Ras G, Flying Lotus, Georgia Anne Muldrow, Kaytranada, UR, Drexciya, King Britt",
+                "Missy Elliot, Willow Smith, Shabazz Palaces, Thundercat, Kamasi Washington, Derrick May, Juan Atkins, Prince",
+                "",
                 "Visuals",
-                "Tech"
+                "-- xx --",
+                "",
+                "Tech",
+                "#BlackTechTwitter, @blackGirlsCode",
+                "",
+                "Writers",
+                "Octavia Butler, Nnedi Okorafor"
             ],
             "desc": "Some references about afrofuturism culture",
 	        "audio_file": "sample.wav",
