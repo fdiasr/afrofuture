@@ -1,5 +1,6 @@
 import cmd, sys, json, time, os
 import simpleaudio as sa
+from PIL import Image
 
 
 class AfrofuturismShell(cmd.Cmd):
@@ -12,7 +13,6 @@ class AfrofuturismShell(cmd.Cmd):
 
 
 Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
-
 
 
 '''
@@ -29,8 +29,8 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         self.play_sound("sample.wav")
 
     def clear(self):
-        os.system('cls') # windows
-        os.system('clear') # unix
+        os.system('cls')  # windows
+        os.system('clear')  # unix
 
     def connect(self):
         print("\n \n \033[1;32;40m > > > Connecting with Wakanda", end="", flush=True)
@@ -56,34 +56,40 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         for item in self.data:
             if item['topic'] == command:
                 return item[field]
-        raise Error
+        raise NameError
 
     def default(self, definition):
         """
         Get definition from data JSON file.
         """
 
-        # try:"
+        try:
+            self.text(definition)
+            self.play(definition)
+            self.picture(definition)
 
-        # if it has sound play it
+        except NameError:
+            print("\n > > > ERROR: Invalid command ! Press help to see the command list \n")
+
+    def text(self, definition):
+        print("\n{definition}\n".format(definition="\n\n".join(self.load(definition, 'text'))))
+
+    def play(self, definition):
         audio_file = self.load(definition, 'audio_file')
-
         if audio_file:
             self.play_sound(audio_file)
 
-        print("\n{definition}\n".format(definition="\n\n".join(self.load(definition, 'text'))))
-
-        # except:
-        #    print("\n > > > ERROR: Invalid command ! Press help to see the command list \n")
-
-
-    #def do_collect_and_results(self, arg):
-    #    'It collects some info from user to search into the internet and show at the end of the presentation
+    def picture(self, definition):
+        picture = self.load(definition, 'picture')
+        if picture:
+            img = Image.open(picture)
+            img.show()
 
     def emptyline(self):
         """
         Make empty line return nothing
         """
+
         return
 
     def do_exit(self, arg):
@@ -93,3 +99,7 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         print("\n\n > > > Ending Wakanda connection \n\n")
         time.sleep(2)
         return True
+
+    # def do_collect_and_results(self, arg):
+    #    'It collects some info from user to search into the internet and show at the end of the presentation
+
