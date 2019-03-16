@@ -3,17 +3,15 @@
         {
             "topic": "definition",
             "text": [
-                "The Definition",
-                "",
+                "DEFINITION",
 		        "Afrofuturism is a cultural aesthetic mixing science, philosophy, African arts and knowledge ",
-	   	        "./afrofuturism/imgs/definition.jpg ",
                 "Reinvent the past, looking forward to the future",
                 "New reality perspective transcending racism, excluding, lonely and violence, ",
                 "Keeping a connection with past and history of Africa and the black prominence ",
                 "Afrofuturism has strong connections with Pan-Africanism",
-                "./afrofuturism/imgs/definition2.jpg ",
                 "\"Space is the place\" - Sun Ra"
 	        ],
+            "picture": "./afrofuturism/imgs/definition.jpg",
             "desc": "Afrofuturism concepts",
 	        "audio_file": "smp2.wav",
             "order": 1
@@ -26,7 +24,6 @@
                 "Sun Ra",
                 "Jazz Player, Experimental Music, Poet, Composer, Label owner ",
                 "Manifest a unified concept incorporating music, myth and performance",
-                "./afrofuturism/imgs/space-is-the-place.jpg ",
                 "SciFi Movie - Space is the Place",
                 "The Black Man in the Cosmos Lecture @ Berkley",
                 "",
@@ -36,6 +33,7 @@
                 "Earned a lot of prizes related with sci-fi writing ",
                 "Her Magnus Opus: Kindred (1979)"
             ],
+            "picture": "./afrofuturism/imgs/space-is-the-place.jpg",
             "desc": "Expose the originators of the afrofuturism",
 	        "audio_file": "smp2.wav",
             "order": 2
@@ -60,7 +58,7 @@
                 "Movie is the first Marvel nominated to oscar's best movie",
                 "Majority of cast are black",
                 "",
-                "Grace Jones - Performaer, Singer, Model",
+                "Grace Jones - Performer, Androgen, Singer, Model",
                 "",
                 "Samuel Delany - Writer",
                 "He wrote the book ...",
