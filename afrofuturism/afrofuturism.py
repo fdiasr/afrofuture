@@ -72,16 +72,16 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
             print("\n > > > ERROR: Invalid command ! Press help to see the command list \n")
 
     def text(self, definition):
-        print("\n{definition}\n".format(definition="\n\n".join(self.load(definition, 'text'))))
+        print("\n{definition}\n\n".format(definition="\n\n".join(self.load(definition, 'text'))))
 
     def play(self, definition):
         audio_file = self.load(definition, 'audio_file')
-        if audio_file:
+        if audio_file and os.path.isfile(audio_file):
             self.play_sound(audio_file)
 
     def picture(self, definition):
         picture = self.load(definition, 'picture')
-        if picture:
+        if picture and os.path.isfile(picture):
             img = Image.open(picture)
             img.show()
 
