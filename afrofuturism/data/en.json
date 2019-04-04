@@ -20,9 +20,9 @@
             "topic": "term",
             "text": [
                 "ABOUT THE TERM",
+                "Some of the definitions appeared in the article \"Black Science Fiction\" in The Wire magazine in 1992.",
                 "Defined when Mark Dery wrote the essay \"Black to the Future\" in the book Flame Wars in 1994",
-                "It exposes common features between sci-fi, music and afro american culture. ",
-                "Some of the definitions appeared in the article \"Black Science Fiction\" in The Wire magazine in 1992."
+                "It exposes common features between sci-fi, music and afro american culture. "
             ],
             "desc": "Explain how the term was created",
 	        "audio_file": "sample.wav",
@@ -195,10 +195,10 @@
                 "> Movies",
                 "  Space is the Place, Blade, Black Panther, Sankofa, Afronauts",
                 "> Arts",
-                "  Basquiat, Angelbert Metoyer, @lost_intheisland (CA), @joshuamaysart, @artxman, @tajfrancis, @osborne_macharia",
+                "  @lost_intheisland (CA), @joshuamaysart, @artxman, @tajfrancis, @osborne_macharia",
                 "> Music",
-                "  Erykah Badu, Janelle Monae, Ras G, Flying Lotus, Georgia Anne Muldrow, Kaytranada, UR, Drexciya, King Britt, Ursula Rucker",
-                "  Missy Elliot, Willow Smith, Shabazz Palaces, Thundercat, Kamasi Washington, Derrick May, Juan Atkins, Prince, Outkast",
+                "  Erykah Badu, Janelle Monae, Ras G, Flying Lotus, Georgia Anne Muldrow, Kaytranada, Shabazz Palaces",
+                "  Underground Resistance, King Britt, Ursula Rucker, Missy Elliot, Kamasi Washington, Prince, Outkast",
                 "> Visuals and Cartoons",
                 "  Black Panther, Moon Girl and the Devil Dinosaur, Static Shock, Kugali Comic Books (UK)",
                 "> Tech",
@@ -240,6 +240,9 @@
             "topic": "thanks",
             "text": [
                 "THANKS",
+                "",
+                "thefutureis.africa",
+                "",
                 "My Contacts:",
                 "@__fdias__",
                 "github/fdiasdev",
@@ -249,7 +252,7 @@
                 "Libraries:",
                 "CMD - Framework for Command Line Interpreters",
                 "PILLOW - Imaging Library - PIL Fork for Python 3",
-                "SIMPLEAUDIO - Audio Playback"
+                "SIMPLEAUDIO - Audio Playback",
                 "",
                 "Afrofuturism Mixtape  (Mixcloud): ",
                 "Afrofuturism Playlist (AppleMusic): ",
