@@ -22,6 +22,10 @@ python setup.py develop
 afrofuture
 ```
 
+# Requirements
+
+Python 3.6
+
 # Stack
 
 - Python using cmd

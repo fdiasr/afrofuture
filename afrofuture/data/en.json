@@ -1,0 +1,268 @@
+{
+    "data": [
+        {
+            "topic": "definition",
+            "text": [
+                "DEFINITION",
+		        "A cultural aesthetic mixing science fiction, art expression and African cultural behaves",
+                "Reinvent the past, looking forward to the future",
+                "New reality perspective transcending racism, excluding, lonely and violence, ",
+                "Keep a connection with the past and the identity of our ancestors",
+                "Afrofuturism has strong connections with Pan-Africanism",
+                "\"Space is the place\" - Sun Ra"
+	        ],
+            "desc": "Afrofuturism concepts",
+	        "audio_file": "miles_davis_in_silent_way.wav",
+            "picture": "./afrofuturism/imgs/definition.jpg",
+            "order": 1
+        },
+        {
+            "topic": "term",
+            "text": [
+                "ABOUT THE TERM",
+                "Some of the definitions appeared in the article \"Black Science Fiction\" in The Wire magazine in 1992.",
+                "Defined when Mark Dery wrote the essay \"Black to the Future\" in the book Flame Wars in 1994",
+                "It exposes common features between sci-fi, music and african and diaspora culture. "
+            ],
+            "desc": "Explain how the term was created",
+	        "audio_file": "sample.wav",
+            "picture": "cybotron_clear.wav",
+            "order": 2
+        },
+        {
+            "topic": "triad",
+            "text": [
+                "THE TRIAD OF ORIGINATORS OF AFROFUTURISM",
+                "Sun Ra",
+                "Jazz Player, Experimental Music, Poet, Composer",
+                "Manifest a unified concept incorporating music, myth and performance",
+                "SciFi Movie - Space is the Place",
+                "The Black Man in the Cosmos Lecture @ Berkley",
+                "",
+                "Octavia Butler",
+                "Black Woman Writer",
+                "She wrote sci-fi books interacting with racism, time travelling and women's empowerment",
+                "Earned multiples prizes related with sci-fi writing",
+                "Her Magnus Opus: Kindred (1979)",
+                "",
+                "George Clinton + Parliament-Funkadelic - Musician",
+                "Mothership Connection, space and time travelling looking for advancement, enlightenment and fun"
+            ],
+            "desc": "Expose the originators of the afrofuturism",
+	        "audio_file": "sunra_space_is_the_place.wav",
+            "picture": "./afrofuturism/imgs/space-is-the-place.jpg",
+            "order": 3
+        },
+        {
+            "topic": "pioneers",
+            "text": [
+                "THE PIONEERS OF AFROFUTURISM",
+                "> Basquiat",
+                "  Painter who used art as form of protest, brings graffiti to galleries and explores street art",
+                "> Grace Jones - Super Model, Singer, Performer",
+                "  One of first black super model in the industry",
+                "> Samuel Delany - Writer",
+                "  Books: Babel 17, Dhalgren",
+                "> Angelbert Metoyer - Painter",
+                "  ...",
+                "",
+                "  \"I figured another place you wouldn't think black people would be was in outer space.",
+                "  I was a big fan of Star Trek, so we did a thing with a pimp sitting in a spaceship shaped like a Cadillac,",
+                "  and we did all these James Brown - type grooves, but with street talk and ghetto slang\" - George Cliton"
+            ],
+            "desc": "Show the pioneers of afrofuturism",
+	        "audio_file": "parliament_starchild.wav",
+            "picture": "",
+            "order": 4
+        },
+        {
+            "topic": "music",
+            "text": [
+                "AFROFUTURISM IN THE MUSIC ASPECT",
+                "> Experimental music from Miles Davis, Alice Coltrane, Lee Scratch Perry, Herbie Hancock",
+                "> Hip Hop",
+                "  Afrika Bambaataa, Egyptian Lover, Digable Planets, Outkast, Missy Elliott, Deltron 3030",
+                "> House",
+                "  ...",
+                "> Techno",
+                "  Juan Atkins, Kevin Saunderson, Carl Craig, Underground Resistance, Drexciya, ...",
+                "  \"like George Clinton and Kraftwerk caught in an elevator with only a sequencer to keep them company\" - Derrick May",
+                "> Trip Hop and UK",
+                "  Massive Attack, Tricky, 4 Hero",
+                "> Jungle/Drum n Bass",
+                "  Goldie, Shy FX, Roni Size, Grooverider, ",
+                "",
+                "\"I realized that what your fantasy is becomes your reality",
+                "and what your reality is becomes your virtuality\" - Africa Bambaata"
+            ],
+            "desc": "Show the pioneers of afrofuturism",
+	        "audio_file": "afrofuture_music_megamix.wav",
+            "picture": "",
+            "order": 5
+        },
+        {
+            "topic": "egypt",
+            "text": [
+                "EGYPT AND NUBIANS SHOW WHY FUTURE IS ALWAYS PRESENT IN THE AFRICAN CULTURE",
+                "> Advanced societies into Africa in the past",
+                "> Great expressions of science, mythology and religion, combined with astronomy, architecture and writing ",
+                "> Before the Western World's culture of Greece and Rome.",
+                "> More Expansive and Inclusive society system than occident",
+                "Africa always have showed in many expression, exact and human sciences together"
+
+            ],
+            "desc": "Egypt show why future is always present in african culture",
+	        "audio_file": "egyptian_lover_egypt_egypt.wav",
+            "picture": "",
+            "order": 6
+        },
+        {
+            "topic": "tech",
+            "text": [
+                "BLACK PEOPLE AT TECHNOLOGY REVOLUTIONIZING THE INDUSTRY",
+                "> Katherine G Johnson",
+                "  Calculations of orbital mechanics for many NASA spacecraft missions",
+                "> Jerry Lawson",
+                "  Changed the video game industry, designing Fairchild Channel F and cartridges",
+                "> Actions and Programs to include black people in tech community",
+                "  #BlackTechTwitter, BAM - Blacks@Microsoft, BGN - Black Googler Network, Black Community@TW"
+            ],
+            "desc": "Black People at technology revolutionizing the industry",
+	        "audio_file": "king_britt_.wav",
+            "picture": "",
+            "order": 7
+        },
+        {
+            "topic": "present",
+            "text": [
+                "AFROFUTURISM IMPACTS THE PRESENT",
+                "> Internet and Social Medias",
+                "  as tool to show and do affirmative actions",
+                "> Entertainment, Cinema and Oscars",
+                "  Black Panther, Star Wars, Hidden Figures",
+                "> Music runs the World",
+                "  Using instruments and technology help black musicians to create new sounds, new styles and revolutionize the industry",
+                "> Arts and Visuals",
+                "  Use Afrofuturism as expression form, many black artists get some visibility"
+            ],
+            "desc": "What is happening in these days, relevant to afrofuturism",
+	        "audio_file": "janele_monae_.wav",
+            "picture": "",
+            "order": 8
+        },
+        {
+            "topic": "mainstream",
+            "text": [
+                "AFROFUTURISM REACHES THE POP CULTURE",
+                "> Parliament, Earth Wind & Fire, Jimi Hendrix, Prince, Ashanti, TLC, Outkast, Beyonce",
+                "> Basquiat",
+                "> The Wiz (Movie) with Dianna Ross and Michael Jackson",
+                "> Afro Samurai",
+                "> Brazilian Carnival - Vai Vai - Quilombo do Futuro",
+                "> Black Panther"
+            ],
+            "desc": "How afrofuturism is influencing pop culture around the world",
+	        "audio_file": "sample.wav",
+            "picture": "tlc_",
+            "order": 9
+        },
+        {
+            "topic": "brasil",
+            "text": [
+                "WHAT IS GOING ON BRAZIL ABOUT AFROFUTURISM",
+                "From 70s until now there are many artists creating content with afrofuturism concepts",
+                "> Jorge Ben in the 70s",
+                "  Egypt Alchemy Theories + Blackness + Love + Space",
+                "> Chico Science & Nação Zumbi in the 90s",
+                "  Brazil Northeast Regional Music + African Rhythms, Hip hop, Electronic, Crabs and Blackness",
+                "> Marcelo D Salete - Comic Book Writer",
+                "  Acclaimed for works describing Afro-Brazilian slaveries resistance: Cumbe (Run For It) and Angola Janga",
+                "> Fabio Kabral - Writer",
+                "  O Caçador Cibernetico da Rua 13” (13th streeet’s cybernetic hunter) - Ioruba mythology + Sci-Fi",
+                "> Augusto Oliveira",
+                "  Hip Hop and time travelling inside the Back To Future's DeLorean",
+                "> Ellen Oleria - Singer who winner of the First The Voice Brazil",
+                "  Brazilian Music with Afrofuturistic elements"
+            ],
+            "desc": "What is happening related with afrofuturism in Brazil",
+	        "audio_file": "jorge_ben_chico_science.wav",
+            "picture": "",
+            "order": 10
+        },
+        {
+            "topic": "references",
+            "text": [
+                "SOME REFERENCES",
+                "> Movies",
+                "  Space is the Place, Blade, Black Panther, Sankofa, Afronauts",
+                "> Arts",
+                "  @lost_intheisland (CA), @joshuamaysart, @artxman, @tajfrancis, @osborne_macharia",
+                "> Music",
+                "  Erykah Badu, Janelle Monae, Ras G, Flying Lotus, Georgia Anne Muldrow, Kaytranada, Shabazz Palaces",
+                "  Underground Resistance, King Britt, Ursula Rucker, Missy Elliot, Kamasi Washington, Prince, Outkast",
+                "> Visuals and Cartoons",
+                "  Black Panther, Moon Girl and the Devil Dinosaur, Static Shock, Kugali Comic Books (UK)",
+                "> Tech",
+                "  #BlackTechTwitter, @blackGirlsCode",
+                "> Writers and Books",
+                "  Octavia Butler, Nnedi Okorafor, Samuel Delany, Kodwo Eshun",
+                "  More Brilliant Than the Sun: Adventures In Sonic Fiction",
+                "> Internet",
+                "  Afropunk, BlacksToTheFuture",
+                "  Moondance - A night in the Afrofuture - https://youtu.be/f-ORwob_PqA",
+                "  Why Drexciya took Detroit electro underwater - https://youtu.be/fgG-QiChiA8",
+                "> Architecture",
+                "  Kere Architecture (Berlin)",
+                "> Fashion",
+                "  Selly Raby Kane (Senegal)"
+            ],
+            "desc": "Some references about afrofuturism culture",
+	        "audio_file": "references_megamix.wav",
+            "picture": "",
+            "order": 11
+        },
+        {
+            "topic": "future",
+            "text": [
+                "WHAT WE EXPECT ABOUT THE FUTURE AND HOW USE AFROFUTURISM IN OUR BENEFIT",
+                "> Afrofuturism is our future",
+                "> Afrofuturism is an expression of our past",
+                "> Afrofuturism is a concept to build a new perspective",
+                "> Afrofuturism is technology",
+                "> Afrofuturism is hacking the system",
+                "> Afrofuturism is part of black culture"
+            ],
+            "desc": "What expect around afrofuturism to future",
+	        "audio_file": "drexciya_.wav",
+            "picture": "",
+            "order": 12
+        },
+        {
+            "topic": "thanks",
+            "text": [
+                "THANKS",
+                "",
+                "thefutureis.africa",
+                "",
+                "My Contacts:",
+                "@__fdias__",
+                "github/fdiasdev",
+                "",
+                "Afrofuture Command Line Interpreter - 2019",
+                "Developed with Python 3.6",
+                "Libraries:",
+                "CMD - Framework for Command Line Interpreters",
+                "PILLOW - Imaging Library - PIL Fork for Python 3",
+                "SIMPLEAUDIO - Audio Playback",
+                "",
+                "Afrofuturism Mixtape  (Mixcloud): ",
+                "Afrofuturism Playlist (AppleMusic): ",
+                "Afrofuturism Playlist (Spotify): "
+            ],
+            "desc": "Finishes the presentation, gives contacts and libraries info",
+	        "audio_file": "fzero_afrofuture.wav",
+            "picture": "",
+            "order": 13
+        }
+    ]
+}

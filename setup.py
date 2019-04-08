@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-    name='afrofuturism',
+    name='afrofuture',
     version='0.0.1',
     entry_points={
         'console_scripts': [
-            'afrofuture = afrofuturism:main'
+            'afrofuture = afrofuture:main'
         ]
     }
 )
