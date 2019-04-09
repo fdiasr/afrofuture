@@ -1,6 +1,6 @@
 import cmd, sys, json, time, os
 import simpleaudio as sa
-from PIL import Image
+from PIL import Image, ImageFilter
 import tweepy
 
 
