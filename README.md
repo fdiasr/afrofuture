@@ -1,4 +1,4 @@
-# Afrofuturism
+# Afrofuture
 
 # What is it ?
 It is a terminal presentation about Afrofuturism
