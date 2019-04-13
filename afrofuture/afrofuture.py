@@ -6,12 +6,16 @@ import tweepy
 
 class AfrofutureShell(cmd.Cmd):
     intro = '''\033[1;32;40m
-    ___    ____           ____      __             _  
-   /   |  / __/________  / __/_  __/ /___  _______(_)________ ___ 
-  / /| | / /_/ ___/ __ \/ /_/ / / / __/ / / / ___/ / ___/ __ `__ 
- / ___ |/ __/ /  / /_/ / __/ /_/ / /_/ /_/ / /  / (__  ) / / / / /
-/_/  |_/_/ /_/   \____/_/  \__,_/\__/\__,_/_/  /_/____/_/ /_/ /_/ 
 
+
+
+ █████╗ ███████╗██████╗  ██████╗ ███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗
+██╔══██╗██╔════╝██╔══██╗██╔═══██╗██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝
+███████║█████╗  ██████╔╝██║   ██║█████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗  
+██╔══██║██╔══╝  ██╔══██╗██║   ██║██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝  
+██║  ██║██║     ██║  ██║╚██████╔╝██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
+                                                                                    
 
 Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
 
@@ -77,7 +81,7 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
             self.picture(definition)
 
         except NameError:
-            print("\n > > > ERROR: Invalid command ! Press help to see the command list \n")
+            print("\n > > > ERROR: Invalid command ! \n")
 
     def text(self, definition):
         """
@@ -109,6 +113,7 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         img_path = "{img_path}/{img_file}".format(img_path=self.img_path, img_file=img_file)
         if img_file and os.path.isfile(img_path):
             img = Image.open(img_path)
+            time.sleep(7)
             img.show()
 
     def emptyline(self):
