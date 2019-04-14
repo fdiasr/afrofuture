@@ -1,7 +1,10 @@
-import cmd, sys, json, time, os
+import cmd
+import json
+import os
+import time
+
 import simpleaudio as sa
-from PIL import Image, ImageFilter
-import tweepy
+from PIL import Image
 
 
 class AfrofutureShell(cmd.Cmd):
@@ -113,7 +116,7 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         img_path = "{img_path}/{img_file}".format(img_path=self.img_path, img_file=img_file)
         if img_file and os.path.isfile(img_path):
             img = Image.open(img_path)
-            time.sleep(7)
+            # time.sleep(7)
             img.show()
 
     def emptyline(self):
@@ -129,17 +132,3 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
         print("\n\n > > > Ending Wakanda connection \n\n")
         time.sleep(2)
         return True
-
-    def do_twitter(self, arg):
-        """
-        It collects some info from user to search into the internet and show at the end of the presentation
-        """
-
-        auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-        auth.set_access_token(access_token, access_secret)
-        api = tweepy.API(auth)
-
-        public_tweets = api.user_timeline('__fdias__')
-        for tweet in public_tweets:
-            print(tweet.text)
-
