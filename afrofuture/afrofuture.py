@@ -5,6 +5,7 @@ import time
 
 import simpleaudio as sa
 from PIL import Image
+import requests
 
 
 class AfrofutureShell(cmd.Cmd):
@@ -58,8 +59,10 @@ Welcome to the Afrofuture cyberspace. SPACE IT THE PLACE !  =.=
             time.sleep(.5)
 
         try:
-            file_path = "{path}/{file}".format(path=self.data_path, file='en.json')
-            self.data = json.load(open(file_path))['data']
+            data_url = "https://raw.githubusercontent.com/fdiasdev/afrofuture/master/afrofuture/data/en.json"
+            self.data = requests.get(data_url).json()['data']
+            # file_path = "{path}/{file}".format(path=self.data_path, file='en.json')
+            # self.data = json.load(open(file_path))['data']
         except Exception as e:
             print('\033[1;32;40m Error to stablish connection...')
             print('\033[1;32;40m {}'.format(e))

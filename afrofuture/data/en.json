@@ -13,7 +13,7 @@
                 "https://en.wikipedia.org/wiki/Afrofuturism"
 	        ],
             "desc": "Afrofuturism concepts",
-	        "audio_file": "miles_davis_in_silent_way.wav",
+	        "audio_file": "drexciya_welcome.wav",
             "picture": "definition_KaylanMichel.jpg",
             "order": 1
         },
@@ -26,7 +26,7 @@
                 "It exposes common features between sci-fi, music and african and diaspora culture. "
             ],
             "desc": "Explain how the term was created",
-	        "audio_file": "sample.wav",
+	        "audio_file": "",
             "picture": "term_KaylanMichel.jpg",
             "order": 2
         },
@@ -44,7 +44,7 @@
 
             ],
             "desc": "Expose the originators of the afrofuturism",
-	        "audio_file": "sunra_space_is_the_place.wav",
+	        "audio_file": "",
             "picture": "trinity.png",
             "order": 3
         },
@@ -77,8 +77,8 @@
                 "> Jungle: Goldie, Shy FX, Roni Size, Grooverider "
             ],
             "desc": "Show the pioneers of afrofuturism",
-	        "audio_file": "afrofuture_music_megamix.wav",
-            "picture": "drexciya.jpg",
+	        "audio_file": "bambaata_planetrock.wav",
+            "picture": "",
             "order": 5
         },
         {
@@ -91,7 +91,7 @@
                 "Africa always have showed in many expression, science and philosophy together"
             ],
             "desc": "Egypt show why future is always present in african culture",
-	        "audio_file": "egyptian_lover_egypt_egypt.wav",
+	        "audio_file": "",
             "picture": "egypt_tech.jpg",
             "order": 6
         },
@@ -107,7 +107,7 @@
                 "  #BlackTechTwitter, BAM-Blacks@Microsoft, BGN-BlackGooglerNetwork, BlackCommunity@TW"
             ],
             "desc": "Black People at technology revolutionizing the industry",
-	        "audio_file": "king_britt_.wav",
+	        "audio_file": "",
             "picture": "black_at_it.jpg",
             "order": 7
         },
@@ -126,7 +126,7 @@
                 "  Afrofuturism as visual art form: Basquiat, Joshua Mays, Lost in the Island"
             ],
             "desc": "What is happening in these days, relevant to afrofuturism",
-	        "audio_file": "janele_monae_.wav",
+	        "audio_file": "",
             "picture": "warrior_profecy_fabrice_monteiro.jpg",
             "order": 8
         },
@@ -134,10 +134,15 @@
             "topic": "women",
             "text": [
                 "A SAFE SPACE FOR WOMEN",
-                ""
+                "",
+                "> Octavia Butler is the center of the afrofuturism holy trinity ",
+                "> Feminine Divine representation in Afrofuturism",
+                "  The Oracle in Matrix",
+                "> Uhura in Star Trek, the only black woman in the 60s",
+                "> Janelle Monae talks about self sustaining and freedom"
             ],
             "desc": "How afrofuturism is influencing pop culture around the world",
-	        "audio_file": "",
+	        "audio_file": "janelle_django.wav",
             "picture": "",
             "order": 9
         },
@@ -156,7 +161,7 @@
                 "  Brazilian Music with Afrofuturistic elements"
             ],
             "desc": "What is happening related with afrofuturism in Brazil",
-	        "audio_file": "jorge_ben_chico_science.wav",
+	        "audio_file": "jorgeben_alquimistas.wav",
             "picture": "jorgebe_tabuadeesmaeralda.jpg",
             "order": 10
         },
@@ -172,14 +177,14 @@
                 "> Fashion: Selly Raby Kane"
             ],
             "desc": "Some references about afrofuturism culture",
-	        "audio_file": "references_megamix.wav",
-            "picture": "references_sunra.jpg",
+	        "audio_file": "",
+            "picture": "",
             "order": 11
         },
         {
             "topic": "future",
             "text": [
-                "WHAT WE EXPECT ABOUT THE FUTURE AND HOW USE AFROFUTURISM IN OUR BENEFIT",
+                "WHAT WE EXPECT ABOUT THE FUTURE",
                 "> Afrofuturism is a new perspective of our future",
                 "> Afrofuturism is an expression of our past",
                 "> Afrofuturism is technology",
@@ -191,7 +196,7 @@
             ],
             "desc": "What expect around afrofuturism to future",
 	        "audio_file": "drexciya_.wav",
-            "picture": "space-is-the-place.jpg",
+            "picture": "references_sunra.jpg",
             "order": 12
         },
         {
@@ -203,7 +208,7 @@
                 "",
                 "Twitter: __fdias__",
                 "",
-                "Afrofuture Command Line Interpreter (Python 3.6, CMD, Pillow and SimpleAudio)",
+                "Afrofuture Command Line Interpreter (Python 3.6, CMD, Requests, Pillow, SimpleAudio)",
                 "",
                 "Afrofuturism Mixtape  (Mixcloud): http://bit.ly/af-001",
                 "",
