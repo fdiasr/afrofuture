@@ -1,0 +1,13 @@
+-e git+https://github.com/fdiasdev/afrofuture.git@ba592de3eaec7bc7c7d4d074aeeac2ca891553c8#egg=afrofuture
+certifi==2018.11.29
+chardet==3.0.4
+idna==2.8
+oauthlib==3.0.1
+Pillow==5.4.1
+PySocks==1.6.8
+requests==2.21.0
+requests-oauthlib==1.2.0
+simpleaudio==1.0.2
+six==1.12.0
+tweepy==3.7.0
+urllib3==1.24.1
