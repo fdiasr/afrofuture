@@ -1,5 +1,5 @@
 -e git+https://github.com/fdiasdev/afrofuture.git@ba592de3eaec7bc7c7d4d074aeeac2ca891553c8#egg=afrofuture
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 idna==2.8
 oauthlib==3.0.1
